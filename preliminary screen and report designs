@@ -119,11 +119,8 @@
   </style>
 </head>
 <body>
-
   <div class="container">
     <h2>STAGE</h2>
-
-    <!-- First Section -->
     <div class="section section-lightblue">
       <div class="section-label">First Section</div>
       <div class="seats">
@@ -141,8 +138,6 @@
         <div class="seat lightblue-seat">B6</div>
       </div>
     </div>
-
-    <!-- Middle Section -->
     <div class="section section-peach">
       <div class="section-label">Middle Section</div>
       <div class="seats">
@@ -160,8 +155,6 @@
         <div class="seat peach-seat">H6</div>
       </div>
     </div>
-
-    <!-- Balcony Section -->
     <div class="section section-green">
       <div class="section-label">Balcony Section</div>
       <div class="seats">
@@ -180,6 +173,5 @@
       </div>
     </div>
   </div>
-
 </body>
 </html>
